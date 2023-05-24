@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="map" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="309.0" prefWidth="233.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dataApi.itineraire">
+    <children>
+        <Pane prefHeight="310.0" prefWidth="233.0" style="-fx-background-color: GREENLIGHT;">
+            <children>
+                <Pane layoutX="-1.0" prefHeight="49.0" prefWidth="234.0" style="-fx-background-color: DARKGREEN;">
+                    <children>
+                        <Label layoutX="52.0" prefHeight="49.0" prefWidth="168.0" text="   La clé de la carte" textFill="WHITE">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <ImageView fitHeight="24.0" fitWidth="26.0" layoutX="28.0" layoutY="13.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@legend.png" />
+                     </image>
+                  </ImageView>
+                    </children></Pane>
+                <Circle fill="#ff0909" layoutX="51.0" layoutY="73.0" radius="7.0" strokeType="INSIDE" />
+                <Circle fill="#3100ff" layoutX="51.0" layoutY="99.0" radius="7.0" strokeType="INSIDE" />
+                <Label layoutX="85.0" layoutY="65.0" prefHeight="17.0" prefWidth="89.0" text="point de départ" />
+                <Label layoutX="85.0" layoutY="89.0" prefHeight="17.0" prefWidth="89.0" text="point d'arrivée" />
+                <Circle fill="#948888" layoutX="51.0" layoutY="146.0" radius="7.0" strokeType="INSIDE" />
+                <Label layoutX="84.0" layoutY="137.0" prefHeight="17.0" prefWidth="89.0" text="building" />
+                <Line endX="-74.19999694824219" endY="0.800018310546875" layoutX="135.0" layoutY="121.0" startX="-95.19999694824219" startY="0.800018310546875" stroke="red" />
+                <Label layoutX="86.0" layoutY="113.0" prefHeight="17.0" prefWidth="89.0" text="itinéraire" />
+                <Line endX="-74.19999694824219" endY="0.800018310546875" layoutX="135.0" layoutY="172.0" startX="-95.19999694824219" startY="0.800018310546875" stroke="#847e7e" />
+                <Label layoutX="86.0" layoutY="164.0" prefHeight="17.0" prefWidth="89.0" text="routes" />
+                <Line endX="-74.19999694824219" endY="0.800018310546875" layoutX="135.0" layoutY="195.0" startX="-95.19999694824219" startY="0.800018310546875" stroke="#0d00ff" />
+                <Label layoutX="85.0" layoutY="185.0" prefHeight="17.0" prefWidth="89.0" text="eaux" />
+                <Label layoutX="85.0" layoutY="213.0" prefHeight="17.0" prefWidth="89.0" text="forêts" />
+                <Polygon fill="#038631" layoutX="55.0" layoutY="243.0" points="-14.0, -15.600006103515625, 12.20001220703125, -15.600006103515625, -7.600006103515625, -32.399993896484375" stroke="BLACK" strokeType="INSIDE" />
+                <Polygon fill="#e71616" layoutX="55.0" layoutY="271.0" points="-14.0, -15.600006103515625, 12.20001220703125, -15.600006103515625, -7.600006103515625, -32.399993896484375" stroke="BLACK" strokeType="INSIDE" />
+                <Label layoutX="85.0" layoutY="239.0" prefHeight="17.0" prefWidth="107.0" text="zones commerciales" />
+                <Circle fill="#ff7d00" layoutX="53.0" layoutY="277.0" radius="7.0" strokeType="INSIDE" />
+                <Label layoutX="84.0" layoutY="268.0" prefHeight="17.0" prefWidth="89.0" text="station bus" />
+            </children>
+        </Pane>
+    </children>
+</AnchorPane>

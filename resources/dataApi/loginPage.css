@@ -1,0 +1,12 @@
+.vbox_background_center{
+    -fx-background-image:url("bgc.jpg")
+}
+.vbox_background_right{
+    -fx-background-image:url("bgr.jpg")
+}
+.microphone{
+        -fx-background-color: white;
+        -fx-background-radius: 20px;
+        -fx-border-color: white;
+        -fx-border-radius: 20px;
+}

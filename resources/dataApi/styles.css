@@ -1,0 +1,18 @@
+.background {
+    -fx-background-color: #0d5449;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+/* Styles pour les éléments Label */
+.label {
+    -fx-text-fill: white; /* Couleur du texte */
+    -fx-font-family: "Impact"; /* Police de caractères */
+}
+
+/* Styles pour le bouton Submit */
+.submit {
+    -fx-background-color: #EE6537; /* Couleur d'arrière-plan */
+    -fx-text-fill: white; /* Couleur du texte */
+    -fx-font-family: "Impact";
+}

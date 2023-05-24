@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="460.0" prefWidth="780.0" stylesheets="@loginPage.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dataApi.HelloController">
+   <right>
+      <VBox prefWidth="332.0" styleClass="vbox_background_right" BorderPane.alignment="CENTER">
+         <children>
+            <AnchorPane prefHeight="461.0" prefWidth="320.0">
+               <children>
+                  <Button fx:id="microButton" layoutX="102.0" layoutY="256.0" mnemonicParsing="false" onAction="#onHelloButtonClick" prefHeight="106.0" prefWidth="106.0" styleClass="microphone">
+                     <graphic>
+                        <ImageView fitHeight="111.0" fitWidth="110.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@micro.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Text fx:id="welcomeText" fill="#fafafa" layoutX="11.0" layoutY="181.0" strokeType="OUTSIDE" strokeWidth="0.0" text="cliquez sur le microphone" textAlignment="CENTER" wrappingWidth="309.79217529296875">
+                     <font>
+                        <Font name="Impact" size="36.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+         </children>
+      </VBox>
+   </right>
+   <center>
+      <VBox prefWidth="449.0" styleClass="vbox_background_center" stylesheets="@loginPage.css" BorderPane.alignment="CENTER">
+         <children>
+            <AnchorPane prefHeight="468.0" prefWidth="448.0">
+               <children>
+                  <Text layoutX="134.0" layoutY="228.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome" wrappingWidth="179.73672485351562">
+                     <font>
+                        <Font name="Impact" size="46.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="94.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CERI">
+                     <font>
+                        <Font name="Impact" size="48.0" />
+                     </font>
+                  </Text>
+                  <Text layoutX="266.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="APP">
+                     <font>
+                        <Font name="Impact" size="48.0" />
+                     </font>
+                  </Text>
+                  <Text fill="#817474" layoutX="183.0" layoutY="277.0" strokeType="OUTSIDE" strokeWidth="0.0" text="MAP">
+                     <font>
+                        <Font name="Impact" size="48.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

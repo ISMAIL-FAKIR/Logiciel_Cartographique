@@ -1,0 +1,7 @@
+.bagautenti{
+    -fx-background-image:url("bagautenti.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 900 506;
+    -fx-background-position: center center;
+
+    }
