@@ -1,0 +1,36 @@
+Contours
+
+[out:xml];
+area[name="France"];
+rel[admin_level=8][name="Paris"](area);
+out geom;
+
+Coordonnées ville par pays
+
+[out:csv("name",::lat, ::lon)];
+area[name="France"];
+(node[place="city"][name="Avignon"](area);
+);
+out;
+
+Coordonnées villes
+
+[out:xml];
+node[place="city"][name="Avignon"];
+out;
+
+Routes par ville :
+[out:xml];
+node[place="city"][name="New York"];
+(
+  way(area)[highway];
+);
+(._;>;);
+
+out;
+
+		ObjectMapper objectMapper = new ObjectMapper();
+		String jsonNum = readJsonFromUrl(decodeURL("http://www.theses.fr/?q=&lng=fr&rows=0&start=0&status=&access=&prevision=&filtrepersonne=&lng="+ facetDiscipline +"&format=json"));
+		JsonNode jsonNode = objectMapper.readTree(jsonNum);
+		int numFound = jsonNode.get("response").get("numFound").asInt();
+		System.out.println("Nombre de theses trouvées : "+ numFound);

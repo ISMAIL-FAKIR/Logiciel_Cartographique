@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<GridPane xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+   <columnConstraints>
+      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+   </rowConstraints>
+   <children>
+      <AnchorPane prefHeight="650.0" prefWidth="869.0" style="-fx-background-color: #ffffff;">
+         <children>
+            <AnchorPane layoutY="-2.0" prefHeight="663.0" prefWidth="282.0" style="-fx-background-color: #EDEDED;">
+               <children>
+                  <ImageView fitHeight="686.0" fitWidth="290.0" layoutY="1.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="/src/fxml/barcontrol.png" />
+                     </image>
+                  </ImageView>
+                  <VBox layoutX="29.0" layoutY="324.0" prefHeight="234.0" prefWidth="245.0" styleClass="search-card" stylesheets="@../../../OneDrive/Bureau/searchcard.css">
+                     <children>
+                        <HBox prefHeight="43.0" prefWidth="244.0">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Zone de départ :" wrappingWidth="95.90493774414062">
+                                 <HBox.margin>
+                                    <Insets left="70.0" top="20.0" />
+                                 </HBox.margin>
+                              </Text>
+                           </children>
+                        </HBox>
+                        <HBox prefHeight="55.0" prefWidth="257.0">
+                           <children>
+                              <TextField fx:id="departZone" prefHeight="34.0" prefWidth="223.0" styleClass="inputsearch" stylesheets="@../../../OneDrive/Bureau/searchcard.css">
+                                 <HBox.margin>
+                                    <Insets left="10.0" top="10.0" />
+                                 </HBox.margin>
+                              </TextField>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="11.0" layoutY="11.0" prefHeight="32.0" prefWidth="257.0">
+                           <children>
+                              <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Zone de d’arrivée :" wrappingWidth="108.00130462646484">
+                                 <HBox.margin>
+                                    <Insets left="70.0" top="10.0" />
+                                 </HBox.margin>
+                              </Text>
+                           </children>
+                        </HBox>
+                        <HBox layoutX="11.0" layoutY="65.0" prefHeight="55.0" prefWidth="257.0">
+                           <children>
+                              <TextField fx:id="arriveZone" prefHeight="34.0" prefWidth="223.0" styleClass="inputsearch" stylesheets="@../../../OneDrive/Bureau/searchcard.css">
+                                 <HBox.margin>
+                                    <Insets left="10.0" top="10.0" />
+                                 </HBox.margin>
+                              </TextField>
+                           </children>
+                        </HBox>
+                        <Button minWidth="17.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="17.0" styleClass="searchbutton" stylesheets="/src/fxml/searchcard.css">
+                           <graphic>
+                              <FontAwesomeIconView cache="true" glyphName="SEARCH" size="18.0" text="" wrappingWidth="18.314321517944336" />
+                           </graphic>
+                           <VBox.margin>
+                              <Insets left="100.0" />
+                           </VBox.margin>
+                        </Button>
+                     </children>
+                  </VBox>
+                  <TextField fx:id="cityname" layoutX="20.0" layoutY="187.0" prefHeight="34.0" prefWidth="223.0" styleClass="inputsearch" stylesheets="/src/fxml/searchcard.css" />
+                  <Text fill="#7030a0" layoutX="74.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Choisir une ville :" textAlignment="CENTER" wrappingWidth="140.41587829589844">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Text>
+                  <Text fill="#7030a0" layoutX="46.0" layoutY="294.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-text-fill: #7030A0;" text="Chercher un itineraire : " textAlignment="CENTER" wrappingWidth="210.01585006713867">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Text>
+                  <ImageView fitHeight="32.0" fitWidth="37.0" layoutX="74.0" layoutY="623.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="src/fxml/logo.png" />
+                     </image>
+                  </ImageView>
+                  <Text layoutX="118.0" layoutY="646.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-font-family: &quot;Agency FB&quot;;" text="TheCeriMap" wrappingWidth="95.90493774414062">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Text>
+                  <Button fx:id="citysearchbutton" layoutX="229.0" layoutY="188.0" minWidth="17.0" mnemonicParsing="false" onAction="#chercherVille" prefHeight="32.0" prefWidth="17.0" styleClass="searchbutton" stylesheets="@../../../OneDrive/Bureau/searchcard.css">
+                     <graphic>
+                        <FontAwesomeIconView cache="true" glyphName="SEARCH" size="18.0" text="" wrappingWidth="18.314321517944336" />
+                     </graphic>
+                  </Button>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="290.0" layoutY="1.0" prefHeight="684.0" prefWidth="603.0" style="-fx-background-color: #fffff5;">
+               <children>
+                  <TextField fx:id="affichageNomVille" alignment="CENTER" layoutX="32.0" layoutY="14.0" prefHeight="55.0" prefWidth="540.0" styleClass="showcityname" stylesheets="@../../../OneDrive/Bureau/searchcard.css" />
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>

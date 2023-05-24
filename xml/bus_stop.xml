@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-03-24T14:13:52Z" areas="2023-03-24T10:40:54Z"/>
+
+  <node id="152557" lat="43.9494689" lon="4.8193184" version="5" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Université"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="152586" lat="43.9536046" lon="4.8110424" version="6" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Aubanel"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="152619" lat="43.9504436" lon="4.8243480" version="8" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Clos des Trams"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="152628" lat="43.9546180" lon="4.8367705" version="6" timestamp="2023-01-07T09:31:15Z" changeset="130973556" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croix Verte"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="25288738" lat="43.9262728" lon="4.8006125" version="6" timestamp="2021-01-15T14:16:55Z" changeset="97565996" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Baigne Pieds"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="92960374" lat="43.9419101" lon="4.8231686" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Galaxie"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="264900821" lat="43.9461392" lon="4.8352471" version="8" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Stade Gorlier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="264900823" lat="43.9462302" lon="4.8336542" version="7" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Reine Jeanne"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="313092033" lat="43.9173147" lon="4.8823049" version="6" timestamp="2022-02-23T17:44:02Z" changeset="117781076" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Durançole"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="313092042" lat="43.9186406" lon="4.8786701" version="5" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Magnanarelles"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="313092089" lat="43.9331615" lon="4.8577013" version="7" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Sainte-Claire"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="315134190" lat="43.9742900" lon="4.8272573" version="4" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Rhodes"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="324457919" lat="43.9274807" lon="4.8430454" version="3" timestamp="2021-01-25T14:22:07Z" changeset="98128359" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Parc des Sports"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="364482454" lat="43.9340724" lon="4.8235704" version="5" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croix des Oiseaux"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="431132384" lat="43.9207203" lon="4.8085329" version="5" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Follereau"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="440115060" lat="43.9286156" lon="4.8762410" version="6" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croix de Joannis"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="506015611" lat="43.9566636" lon="4.8345491" version="6" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Vercors"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="635101884" lat="43.9190323" lon="4.8720731" version="7" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Valente"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="635115779" lat="43.9213275" lon="4.8682871" version="5" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Castelette"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="638356915" lat="43.9564250" lon="4.8387243" version="5" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bonaventure"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="638358084" lat="43.9505965" lon="4.8250353" version="5" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Clos des Trams"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="659296561" lat="43.9502801" lon="4.8519009" version="5" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Renoir"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="659297674" lat="43.9490134" lon="4.8517902" version="5" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Carpeaux"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="717458166" lat="43.9712993" lon="4.8260647" version="5" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cave"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="752882815" lat="43.9351208" lon="4.7819609" version="6" timestamp="2021-01-17T08:27:21Z" changeset="97628731" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Petit Mas"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="924063739" lat="43.9430922" lon="4.8043723" version="12" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="2"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="925386837" lat="43.9409899" lon="4.8032188" version="2" timestamp="2021-12-07T06:42:02Z" changeset="114645354" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Champfleury"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="926089549" lat="43.9380634" lon="4.7995676" version="5" timestamp="2021-01-15T14:16:55Z" changeset="97565996" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ferry"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="935020938" lat="43.9504078" lon="4.8297639" version="4" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Véran"/>
+    <tag k="note" v="Sur le panneau en 2019 est bien marqué St Véran et pas Saint-Véran !"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="935202429" lat="43.9470759" lon="4.8350601" version="5" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Droits de l'Homme"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="937057634" lat="43.9318549" lon="4.8286497" version="5" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Parrocel"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="963108221" lat="43.9284466" lon="4.7993938" version="5" timestamp="2021-01-15T14:16:55Z" changeset="97565996" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Monteverdi"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="963507027" lat="43.9334084" lon="4.7986097" version="5" timestamp="2021-11-02T09:01:23Z" changeset="113272445" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Quiot"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="964924884" lat="43.9513711" lon="4.8193279" version="11" timestamp="2019-03-02T11:20:01Z" changeset="67710965" uid="922338" user="Hervé TUC">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Saint-Lazare"/>
+    <tag k="note" v="allobus ligne 2,3,5"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="shelter:colour" v="brown"/>
+    <tag k="shelter:operator" v="JCDecaux"/>
+    <tag k="shelter:ref" v="96"/>
+    <tag k="source" v="survey 2014"/>
+    <tag k="survey:date" v="2017-08-07"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="waste_basket" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="976835423" lat="43.9421667" lon="4.8046096" version="10" timestamp="2020-10-01T15:58:10Z" changeset="91836153" uid="188930" user="JLZIMMERMANN">
+    <tag k="alt_name" v="Cour de la gare"/>
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Gare d'Avignon-Centre"/>
+    <tag k="name:oc" v="Gara d'Avinhon Centre"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="976835867" lat="43.9429774" lon="4.8044003" version="11" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="12"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1052049711" lat="43.9358100" lon="4.7955735" version="4" timestamp="2018-10-29T08:59:32Z" changeset="63970451" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Gymnase Giéra"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1052049754" lat="43.9331017" lon="4.7956758" version="3" timestamp="2017-04-28T12:10:21Z" changeset="48226454" uid="15188" user="Polyglot">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="La Fabrica"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1052049804" lat="43.9309541" lon="4.7970033" version="3" timestamp="2018-02-02T19:03:16Z" changeset="56004933" uid="214436" user="PanierAvide">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Levant"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="1052049839" lat="43.9294495" lon="4.7990997" version="3" timestamp="2018-02-02T19:00:07Z" changeset="56004850" uid="6231864" user="cabinetcourbi">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Églantines"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1052049879" lat="43.9357891" lon="4.7956240" version="4" timestamp="2018-10-29T08:59:32Z" changeset="63970451" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Gymnase Giéra"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1052049894" lat="43.9309518" lon="4.7971542" version="2" timestamp="2017-04-28T12:10:22Z" changeset="48226454" uid="15188" user="Polyglot">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Levant"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1052049919" lat="43.9331141" lon="4.7957612" version="3" timestamp="2017-04-28T12:10:22Z" changeset="48226454" uid="15188" user="Polyglot">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="La Fabrica"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1052049925" lat="43.9295205" lon="4.7991329" version="2" timestamp="2017-04-28T12:10:22Z" changeset="48226454" uid="15188" user="Polyglot">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Églantines"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1054962021" lat="43.9239731" lon="4.8090786" version="3" timestamp="2021-04-28T16:02:13Z" changeset="103788780" uid="688484" user="Pa413">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Stade Gillardeaux"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1060054925" lat="43.9293929" lon="4.8659653" version="1" timestamp="2010-12-23T20:09:35Z" changeset="6749268" uid="333347" user="gaston">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"/>
+  </node>
+  <node id="1066131255" lat="43.9257463" lon="4.8825198" version="6" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Granges"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1073153537" lat="43.9445053" lon="4.8813026" version="6" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lou Castelet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1073158264" lat="43.9395269" lon="4.7975472" version="4" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Eisenhower"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1391276703" lat="43.9225551" lon="4.7856158" version="14" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1416955207" lat="43.9228900" lon="4.7845712" version="6" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1416955208" lat="43.9226250" lon="4.7853979" version="6" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1439680403" lat="43.9723074" lon="4.8198530" version="5" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="EDF"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1494246524" lat="43.9227560" lon="4.7849894" version="7" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1549410839" lat="43.9276885" lon="4.7908991" version="6" timestamp="2021-07-30T21:52:08Z" changeset="108911718" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="P+R Courtine"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1672854221" lat="43.9387477" lon="4.8402396" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fontcouverte"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1672854241" lat="43.9395761" lon="4.8381399" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Pompiers"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1672854425" lat="43.9424615" lon="4.8063761" version="7" timestamp="2023-02-26T21:01:26Z" changeset="133059417" uid="10397245" user="chamdam">
+    <tag k="alt_name" v="Gare Centre - République"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Gare Centre"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674101718" lat="43.9272527" lon="4.8440905" version="3" timestamp="2021-01-25T14:22:07Z" changeset="98128359" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Parc des Sports"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674102052" lat="43.9425546" lon="4.8210840" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="L'Épi"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674102056" lat="43.9427829" lon="4.8208887" version="5" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="L'Épi"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674102113" lat="43.9440533" lon="4.8187687" version="5" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Maison de Retraite"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674102121" lat="43.9445247" lon="4.8168673" version="6" timestamp="2021-02-26T19:00:36Z" changeset="100070455" uid="10617233" user="Farot">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Palais de Justice"/>
+    <tag k="name:oc" v="Palais de Justícia"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1674102214" lat="43.9472205" lon="4.8178806" version="8" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Thiers"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="survey:date" v="2018-04-18"/>
+  </node>
+  <node id="1674102220" lat="43.9493338" lon="4.8193447" version="6" timestamp="2022-10-06T10:59:46Z" changeset="127096167" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="image" v="https://i.imgur.com/UnCyhVd.jpg"/>
+    <tag k="name" v="Université"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1675484885" lat="43.9437154" lon="4.8144996" version="11" timestamp="2022-10-06T06:24:17Z" changeset="127082692" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="image" v="https://i.imgur.com/wNt9mVm.jpg"/>
+    <tag k="name" v="Limbert"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1713492162" lat="43.9162738" lon="4.8874264" version="7" timestamp="2023-01-27T09:50:33Z" changeset="131764897" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Agroparc Centre"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1721632325" lat="43.9431775" lon="4.8034665" version="11" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="6"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1721894477" lat="43.9228185" lon="4.7847943" version="7" timestamp="2023-01-14T20:49:16Z" changeset="131279059" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1721900811" lat="43.9464108" lon="4.8522656" version="6" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lycée René Char"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1731739001" lat="43.9549225" lon="4.8253457" version="4" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Synagogue"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1770453042" lat="43.9499939" lon="4.8022401" version="10" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1771474709" lat="43.9501334" lon="4.8022515" version="9" timestamp="2021-01-14T22:59:41Z" changeset="97519005" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1771494693" lat="43.9501482" lon="4.8021431" version="2" timestamp="2021-05-02T10:37:19Z" changeset="103988446" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1832946338" lat="43.9442818" lon="4.8276361" version="4" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Wetzlar"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2009703195" lat="43.9612177" lon="4.8151294" version="4" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Moutons"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2009719996" lat="43.9554750" lon="4.8089487" version="4" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Traille"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2009720005" lat="43.9555350" lon="4.8095482" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Traille"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136273610" lat="43.9430708" lon="4.8045987" version="11" timestamp="2021-01-15T14:16:55Z" changeset="97565996" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136273902" lat="43.9429593" lon="4.8045832" version="9" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="13"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136274342" lat="43.9430702" lon="4.8034651" version="10" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="8"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136274451" lat="43.9431135" lon="4.8041458" version="11" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="3"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136274585" lat="43.9430029" lon="4.8041435" version="11" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="11"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136276228" lat="43.9431348" lon="4.8039194" version="11" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="4"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136276426" lat="43.9430237" lon="4.8039340" version="10" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="10"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136276867" lat="43.9431561" lon="4.8036930" version="11" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="5"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2136277092" lat="43.9430472" lon="4.8036969" version="10" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="9"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2211188322" lat="43.9520894" lon="4.7988300" version="1" timestamp="2013-03-20T12:03:15Z" changeset="15430748" uid="188930" user="JLZIMMERMANN">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bagatelle"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2446784193" lat="43.9273063" lon="4.8096221" version="2" timestamp="2017-04-28T12:10:49Z" changeset="48226454" uid="15188" user="Polyglot">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Stade P. Baizet"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2446784194" lat="43.9274073" lon="4.8093958" version="2" timestamp="2017-04-28T12:10:49Z" changeset="48226454" uid="15188" user="Polyglot">
+    <tag k="bench" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Stade P. Baizet"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2447229174" lat="43.9468934" lon="4.8349233" version="5" timestamp="2021-05-16T13:31:00Z" changeset="104769293" uid="570635" user="_phiphou_">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Droits de l'Homme"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2447851032" lat="43.9504551" lon="4.8390959" version="4" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Auriol"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2451450305" lat="43.9371748" lon="4.7993488" version="3" timestamp="2017-04-28T12:10:56Z" changeset="48226454" uid="15188" user="Polyglot">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Champfleury"/>
+    <tag k="pole" v="public_transport"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="2451450307" lat="43.9373466" lon="4.7993590" version="3" timestamp="2017-04-28T12:10:56Z" changeset="48226454" uid="15188" user="Polyglot">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Champfleury"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="2486218203" lat="43.9434828" lon="4.8054139" version="5" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cité Administrative"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2626814153" lat="43.9349874" lon="4.8529329" version="5" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lac St Chamand"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2657327232" lat="43.9486171" lon="4.8196529" version="5" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Préfecture Chabran"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2689754194" lat="43.9524855" lon="4.8040549" version="3" timestamp="2016-01-12T11:16:11Z" changeset="36526259" uid="381963" user="doncalvo">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Saint-Bénézet"/>
+    <tag k="source" v="survey 2014"/>
+  </node>
+  <node id="2797911981" lat="43.9429182" lon="4.8425459" version="4" timestamp="2021-01-16T12:13:59Z" changeset="97601946" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Van Gogh"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2797911992" lat="43.9431519" lon="4.8428092" version="4" timestamp="2021-01-16T12:13:59Z" changeset="97601946" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Van Gogh"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2801539644" lat="43.9397567" lon="4.8374224" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Pompiers"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2801547130" lat="43.9313588" lon="4.8472970" version="4" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bel Air"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2807363957" lat="43.9303782" lon="4.7848516" version="2" timestamp="2021-07-30T21:52:08Z" changeset="108911718" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Gens"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3175212379" lat="43.9226764" lon="4.7852375" version="5" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3175212380" lat="43.9227080" lon="4.7854756" version="5" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3175212381" lat="43.9227706" lon="4.7852823" version="6" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3175212382" lat="43.9228516" lon="4.7850324" version="5" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3175212383" lat="43.9229135" lon="4.7848413" version="5" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3175212384" lat="43.9229762" lon="4.7846478" version="5" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3803998326" lat="43.9400085" lon="4.8333347" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Henri Nodet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3804450897" lat="43.9436322" lon="4.8146620" version="5" timestamp="2021-01-23T10:03:57Z" changeset="98012770" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Limbert"/>
+    <tag k="name:oc" v="Limbert"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="3986861143" lat="43.8892713" lon="4.9156518" version="4" timestamp="2021-01-17T08:37:16Z" changeset="97628920" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bonpas"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4333844694" lat="43.9281217" lon="4.8043860" version="3" timestamp="2022-03-03T06:41:06Z" changeset="118043281" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lavarin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4377188831" lat="43.9510779" lon="4.7934927" version="7" timestamp="2021-01-17T08:27:21Z" changeset="97628731" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Parking Île Piot"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4379150192" lat="43.9276594" lon="4.7855622" version="10" timestamp="2021-07-30T21:52:08Z" changeset="108911718" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bonne Fleur"/>
+    <tag k="old_name" v="Bonne Fleur - Courtine"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4379150193" lat="43.9276589" lon="4.7854842" version="8" timestamp="2021-07-30T21:52:08Z" changeset="108911718" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bonne Fleur"/>
+    <tag k="old_name" v="Bonne Fleur - Courtine"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4568699398" lat="43.9421937" lon="4.8080834" version="6" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="6"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4823556326" lat="43.9461225" lon="4.8525257" version="4" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lycée René Char"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4848485511" lat="43.9182806" lon="4.8042195" version="6" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Hôpital"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4902911477" lat="43.9290068" lon="4.8252175" version="3" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="François 1er"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4903428233" lat="43.9440114" lon="4.8153805" version="6" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Limbert"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4905308399" lat="43.9239126" lon="4.8262448" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Gabriel"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4907828835" lat="43.9226410" lon="4.7856825" version="4" timestamp="2023-01-14T16:24:21Z" changeset="131270948" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Gare TGV"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4908199627" lat="43.9437582" lon="4.8168269" version="5" timestamp="2021-02-26T19:00:36Z" changeset="100070455" uid="10617233" user="Farot">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Palais de Justice"/>
+    <tag k="name:oc" v="Palais de Justícia"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4926618964" lat="43.9468536" lon="4.8174990" version="6" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Thiers"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="4934953794" lat="43.9354158" lon="4.8716929" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mairie de Montfavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5224513930" lat="43.9400988" lon="4.8334349" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Henri Nodet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5334442437" lat="43.9210091" lon="4.8673285" version="3" timestamp="2019-10-19T05:58:40Z" changeset="75920417" uid="6231864" user="cabinetcourbi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="5613766230" lat="43.9421942" lon="4.8083008" version="3" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="8"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5615278244" lat="43.9421939" lon="4.8081879" version="3" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="7"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5783264306" lat="43.9421932" lon="4.8078748" version="3" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="4"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5853825918" lat="43.9534881" lon="4.8230328" version="3" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="P+R Italiens Terminus"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="5853837646" lat="43.9535370" lon="4.8105850" version="4" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Aubanel"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6021587760" lat="43.9337875" lon="4.8022513" version="2" timestamp="2021-07-30T21:52:08Z" changeset="108911718" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Martelange"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6264392728" lat="43.9421924" lon="4.8075480" version="3" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6269179876" lat="43.9421926" lon="4.8076521" version="3" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="2"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6272169729" lat="43.9459870" lon="4.8168819" version="4" timestamp="2022-10-06T06:39:47Z" changeset="127082692" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="image" v="https://i.imgur.com/5RXr501.jpg"/>
+    <tag k="name" v="CCAS"/>
+    <tag k="name:oc" v="CCAS"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+  </node>
+  <node id="6272174174" lat="43.9480281" lon="4.8004420" version="5" timestamp="2021-05-17T18:35:22Z" changeset="104843678" uid="1418137" user="Test360">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Saint Dominique"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6338762603" lat="43.9326725" lon="4.8586607" version="5" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Sainte-Claire"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6365392147" lat="43.9421929" lon="4.8077623" version="3" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="3"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6492240072" lat="43.8926332" lon="4.9161703" version="3" timestamp="2021-03-13T15:20:19Z" changeset="100957574" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Péage Avignon Sud"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6494882424" lat="43.9445342" lon="4.8813280" version="4" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lou Castelet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6532075170" lat="43.9421947" lon="4.8085115" version="3" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="10"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="6796241340" lat="43.9322596" lon="4.8321138" version="1" timestamp="2019-09-15T04:13:33Z" changeset="74487713" uid="83557" user="Esperanza36">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mazarin"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="6948431303" lat="43.9378600" lon="4.8159874" version="3" timestamp="2022-09-21T16:00:03Z" changeset="126471934" uid="10916480" user="Vertounoir">
+    <tag k="bus" v="yes"/>
+    <tag k="fixme" v="Position approximative"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Echo"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7473958811" lat="43.9652701" lon="4.8180923" version="4" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Deux Rhône"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7503274992" lat="43.9309716" lon="4.8258406" version="4" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Sources"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7503462948" lat="43.9323610" lon="4.8019615" version="4" timestamp="2021-01-15T14:16:55Z" changeset="97565996" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lopy"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7503462954" lat="43.9327613" lon="4.8026937" version="4" timestamp="2021-01-15T14:16:55Z" changeset="97565996" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lopy"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7523474603" lat="43.9478047" lon="4.8240039" version="3" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fourrière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7523474604" lat="43.9473248" lon="4.8272735" version="4" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Jean"/>
+    <tag k="note" v="Sur le panneau en 2019 est bien marqué St Jean et pas Saint-Jean !"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7523474605" lat="43.9472285" lon="4.8276822" version="4" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Jean"/>
+    <tag k="note" v="Sur le panneau en 2019 est bien marqué St Jean et pas Saint-Jean !"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7523474606" lat="43.9478307" lon="4.8289706" version="3" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Boccace"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7523474607" lat="43.9516122" lon="4.8340253" version="3" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Esprit Requiem"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7523474611" lat="43.9520433" lon="4.8360376" version="4" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Notre Dame"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7523474612" lat="43.9522534" lon="4.8370949" version="4" timestamp="2021-01-15T13:08:13Z" changeset="97562484" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Notre Dame"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437654" lat="43.9220177" lon="4.8030129" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Rhône Durance"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437655" lat="43.9217057" lon="4.8028909" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Rhône Durance"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437656" lat="43.9250233" lon="4.8041891" version="4" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Schumann"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437660" lat="43.9281981" lon="4.8044188" version="5" timestamp="2022-03-03T06:41:06Z" changeset="118043281" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lavarin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437661" lat="43.9279973" lon="4.8044258" version="4" timestamp="2022-03-03T06:41:06Z" changeset="118043281" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lavarin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437662" lat="43.9289864" lon="4.8026830" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Allende"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437663" lat="43.9291105" lon="4.8016524" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Allende"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437666" lat="43.9303521" lon="4.8002362" version="4" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Monclar"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437668" lat="43.9316395" lon="4.7991049" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Verdi"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437670" lat="43.9317530" lon="4.7987080" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Verdi"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437676" lat="43.9355814" lon="4.7982761" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Scheppler FabricA"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437679" lat="43.9379093" lon="4.7967533" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mouret"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525437684" lat="43.9392082" lon="4.7974990" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Eisenhower"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442388" lat="43.9404872" lon="4.8013734" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Lierres"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442389" lat="43.9424375" lon="4.8066372" version="6" timestamp="2023-02-26T21:01:26Z" changeset="133059417" uid="10397245" user="chamdam">
+    <tag k="alt_name" v="Gare Centre - République"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Gare Centre"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442392" lat="43.9430501" lon="4.8116751" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Magnanen"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442393" lat="43.9431582" lon="4.8118682" version="3" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Magnanen"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442394" lat="43.9521510" lon="4.8284590" version="4" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croisière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442395" lat="43.9519548" lon="4.8280329" version="4" timestamp="2023-01-07T09:31:15Z" changeset="130973556" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croisière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442399" lat="43.9529190" lon="4.8312720" version="5" timestamp="2023-01-07T09:31:15Z" changeset="130973556" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Combe"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442400" lat="43.9532224" lon="4.8326137" version="4" timestamp="2023-01-07T09:31:15Z" changeset="130973556" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Combe"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7525442401" lat="43.9547413" lon="4.8373801" version="4" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croix Verte"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526366179" lat="43.9354896" lon="4.8294917" version="5" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Maria Casarès"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374001" lat="43.9358975" lon="4.8288989" version="4" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Maria Casarès"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374010" lat="43.9369941" lon="4.8255795" version="4" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croix Rouge"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374012" lat="43.9371687" lon="4.8249660" version="5" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croix Rouge"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374093" lat="43.9395515" lon="4.8210549" version="4" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Rotondes"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374094" lat="43.9392373" lon="4.8215615" version="4" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Rotondes"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374095" lat="43.9409025" lon="4.8186180" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ventoux"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374096" lat="43.9410666" lon="4.8183618" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ventoux"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374101" lat="43.9433678" lon="4.8154556" version="4" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Limbert"/>
+    <tag k="name:oc" v="Limbert"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526374111" lat="43.9504182" lon="4.8196376" version="4" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Lazare"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526556662" lat="43.9103761" lon="4.8874562" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Grand Avignon"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526556663" lat="43.9113804" lon="4.8846540" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cité de l'Artisanat"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526556664" lat="43.9116007" lon="4.8849356" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cité de l'Artisanat"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526556669" lat="43.9132170" lon="4.8869738" version="5" timestamp="2022-02-23T17:44:02Z" changeset="117781076" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Demonque"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597599" lat="43.9236884" lon="4.8648579" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mistral 7"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597600" lat="43.9255912" lon="4.8562881" version="5" timestamp="2021-10-24T22:20:47Z" changeset="112923231" uid="6231864" user="cabinetcourbi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Souvine"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597601" lat="43.9254942" lon="4.8566460" version="5" timestamp="2021-10-24T22:20:47Z" changeset="112923231" uid="6231864" user="cabinetcourbi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Souvine"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597602" lat="43.9258197" lon="4.8498087" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cristole"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597604" lat="43.9276810" lon="4.8459363" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Campus CCI"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597605" lat="43.9279369" lon="4.8461294" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Campus CCI"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597606" lat="43.9303738" lon="4.8451832" version="4" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Coubertin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597611" lat="43.9305544" lon="4.8411358" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Chamand"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597612" lat="43.9306287" lon="4.8410308" version="5" timestamp="2022-07-23T19:44:50Z" changeset="123988347" uid="11276832" user="HaPe-CZ">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Chamand"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597624" lat="43.9304714" lon="4.8374176" version="4" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cap Sud"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526597625" lat="43.9304617" lon="4.8370689" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cap Sud"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758034" lat="43.9318419" lon="4.8733109" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Primevères"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758035" lat="43.9315318" lon="4.8735939" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Primevères"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758042" lat="43.9295007" lon="4.8754386" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Croix de Joannis"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758043" lat="43.9264369" lon="4.8771479" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="La Halte"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758044" lat="43.9260616" lon="4.8772088" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="La Halte"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758062" lat="43.9262234" lon="4.8807460" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Boutons d'Or"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758063" lat="43.9262447" lon="4.8801559" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Boutons d'Or"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758064" lat="43.9260964" lon="4.8825558" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Granges"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758068" lat="43.9241858" lon="4.8863458" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Valentin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526758069" lat="43.9242303" lon="4.8859911" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Valentin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526764392" lat="43.9209165" lon="4.8889033" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Pont Bleu"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526764393" lat="43.9211271" lon="4.8887705" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Pont Bleu"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526764459" lat="43.9170071" lon="4.8888889" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Salle de Montfavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526764460" lat="43.9168447" lon="4.8889073" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Salle de Montfavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526764463" lat="43.9119987" lon="4.8904341" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Agrosciences"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526764469" lat="43.9141372" lon="4.8928795" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Félons"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7526764470" lat="43.9143084" lon="4.8928544" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Félons"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528402990" lat="43.9440949" lon="4.8185885" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Maison de Retraite"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403013" lat="43.9415938" lon="4.8242876" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Galaxie"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403017" lat="43.9410207" lon="4.8263681" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Colchester"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403018" lat="43.9409446" lon="4.8266692" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Colchester"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403029" lat="43.9402936" lon="4.8292248" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Deux Frères"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403044" lat="43.9385177" lon="4.8405759" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Fontcouverte"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403049" lat="43.9369904" lon="4.8444557" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Berton Sicard"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403050" lat="43.9372524" lon="4.8440292" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Berton Sicard"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403064" lat="43.9357547" lon="4.8475979" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Chemin de l'Amandier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403065" lat="43.9357569" lon="4.8478323" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Chemin de l'Amandier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403071" lat="43.9351323" lon="4.8518036" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lac St Chamand"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403084" lat="43.9331278" lon="4.8702018" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cimetière de Montfavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403085" lat="43.9329100" lon="4.8702157" version="4" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cimetière de Montfavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403086" lat="43.9344418" lon="4.8698536" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Souspirous"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403101" lat="43.9353655" lon="4.8719571" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mairie de Montfavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403102" lat="43.9356340" lon="4.8718712" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mairie de Montfavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403111" lat="43.9334586" lon="4.8725478" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Gare de Montavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528403112" lat="43.9332167" lon="4.8726209" version="3" timestamp="2021-01-14T22:40:06Z" changeset="97518553" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Gare de Montavet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528415280" lat="43.9524974" lon="4.7964646" version="3" timestamp="2021-01-14T22:59:41Z" changeset="97519005" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Barthelasse"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7528826148" lat="43.9503947" lon="4.8026280" version="3" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Porte de l'Oulle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128889" lat="43.9400816" lon="4.8060753" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Maison Pour Tous"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128890" lat="43.9379574" lon="4.8052961" version="4" timestamp="2021-09-28T07:44:02Z" changeset="111803578" uid="6654756" user="simon_geovelo">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mairie Ouest"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128891" lat="43.9378550" lon="4.8052501" version="4" timestamp="2021-09-28T07:44:02Z" changeset="111803578" uid="6654756" user="simon_geovelo">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mairie Ouest"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128892" lat="43.9374211" lon="4.8077443" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Monod"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128909" lat="43.9375650" lon="4.8121170" version="4" timestamp="2021-11-29T22:10:02Z" changeset="114379136" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="fixme" v="Position approximative"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Sixte Isnard"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128927" lat="43.9363796" lon="4.8156572" version="4" timestamp="2022-09-21T16:00:03Z" changeset="126471934" uid="10916480" user="Vertounoir">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Echo"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128931" lat="43.9376770" lon="4.8137793" version="4" timestamp="2021-11-29T22:10:02Z" changeset="114379136" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Sixte Isnard"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128938" lat="43.9345900" lon="4.8162424" version="4" timestamp="2022-09-21T16:00:03Z" changeset="126471934" uid="10916480" user="Vertounoir">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Loti"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128950" lat="43.9352113" lon="4.8191853" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="L'Herminier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128955" lat="43.9353385" lon="4.8201408" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="L'Herminier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128959" lat="43.9358238" lon="4.8228465" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Péguy"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128960" lat="43.9355355" lon="4.8232160" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Péguy"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128975" lat="43.9325392" lon="4.8289834" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Parrocel"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529128984" lat="43.9311730" lon="4.8257802" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Sources"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529129291" lat="43.9341163" lon="4.8278931" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Roumanille"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529129315" lat="43.9348363" lon="4.8282887" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bavardages"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529129320" lat="43.9348059" lon="4.8304921" version="4" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cité SNCF"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529129348" lat="43.9259216" lon="4.8451216" version="3" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="P+R Amandier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529365834" lat="43.9504536" lon="4.8391999" version="3" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Auriol"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529365837" lat="43.9488658" lon="4.8371078" version="2" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Albert Lebrun"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529365882" lat="43.9463404" lon="4.8332226" version="3" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Reine Jeanne"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529365883" lat="43.9465350" lon="4.8313813" version="3" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Passerelle"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529369487" lat="43.9458233" lon="4.8281915" version="3" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Place de Sienne"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529369508" lat="43.9438110" lon="4.8275927" version="3" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Wetzlar"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529369527" lat="43.9418517" lon="4.8274217" version="3" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Neuf Peyres"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7529369528" lat="43.9415611" lon="4.8273989" version="3" timestamp="2021-01-15T08:21:09Z" changeset="97542808" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Neuf Peyres"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7544990745" lat="43.9442562" lon="4.8514368" version="3" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Chasseriau"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7544990746" lat="43.9442026" lon="4.8507247" version="3" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Chasseriau"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7544990788" lat="43.9438516" lon="4.8486789" version="3" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Pellenc"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7544990800" lat="43.9432393" lon="4.8451759" version="3" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Picasso"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7544990801" lat="43.9432717" lon="4.8446522" version="3" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Picasso"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7544990808" lat="43.9453927" lon="4.8431696" version="3" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Florence"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7545598735" lat="43.9353960" lon="4.8042219" version="4" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lopofa"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7545598736" lat="43.9356572" lon="4.8043178" version="4" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lopofa"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7545598740" lat="43.9375013" lon="4.8045874" version="3" timestamp="2021-01-15T14:16:55Z" changeset="97565996" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Violette"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7545598743" lat="43.9381512" lon="4.7980937" version="3" timestamp="2021-01-15T14:16:55Z" changeset="97565996" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ferry"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369311" lat="43.9360986" lon="4.8908492" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Prés Verts"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369313" lat="43.9361861" lon="4.8905450" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Prés Verts"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369315" lat="43.9373780" lon="4.8868790" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Saint-Louis"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369332" lat="43.9373887" lon="4.8808126" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bastide"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369352" lat="43.9369793" lon="4.8780611" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Vertes Rives"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369362" lat="43.9364380" lon="4.8758805" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cantonne"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369364" lat="43.9363125" lon="4.8753393" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cantonne"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369378" lat="43.9347653" lon="4.8479996" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Chemin de l'Amandier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369379" lat="43.9347108" lon="4.8480130" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Chemin de l'Amandier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7548369383" lat="43.9311532" lon="4.8473485" version="3" timestamp="2021-01-15T22:55:31Z" changeset="97585665" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bel Air"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549202779" lat="43.9039343" lon="4.8950596" version="4" timestamp="2023-01-14T15:17:53Z" changeset="131268695" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Aéroport"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227089" lat="43.9453833" lon="4.8635718" version="3" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Maurice"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227094" lat="43.9386263" lon="4.8776829" version="3" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Sœurs"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227096" lat="43.9384916" lon="4.8777672" version="3" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Sœurs"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227098" lat="43.9400343" lon="4.8762962" version="3" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Étoiles"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227100" lat="43.9402063" lon="4.8762293" version="3" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Étoiles"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227103" lat="43.9416500" lon="4.8756846" version="3" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Martines"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227115" lat="43.9409878" lon="4.8724679" version="3" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Préfète"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227176" lat="43.9406438" lon="4.8707787" version="3" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Jarretière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227193" lat="43.9461410" lon="4.8524125" version="3" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lycée René Char"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227196" lat="43.9461341" lon="4.8524721" version="3" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lycée René Char"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549227199" lat="43.9460773" lon="4.8525724" version="2" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lycée René Char"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549843547" lat="43.9383835" lon="4.8419928" version="3" timestamp="2021-01-16T12:13:59Z" changeset="97601946" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cinq Cantons"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549843550" lat="43.9385826" lon="4.8420350" version="3" timestamp="2021-01-16T12:13:59Z" changeset="97601946" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cinq Cantons"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7549843554" lat="43.9406900" lon="4.8421121" version="3" timestamp="2021-01-16T12:13:59Z" changeset="97601946" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Oeillets"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553228085" lat="43.9299874" lon="4.7843850" version="3" timestamp="2021-01-17T08:27:21Z" changeset="97628731" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Gens"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553228087" lat="43.9310037" lon="4.7837513" version="3" timestamp="2021-01-17T08:27:21Z" changeset="97628731" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Gens"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553228089" lat="43.9346008" lon="4.7820213" version="3" timestamp="2021-01-17T08:27:21Z" changeset="97628731" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Petit Mas"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553369037" lat="43.9304264" lon="4.8450948" version="3" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Coubertin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553370410" lat="43.8896497" lon="4.9133992" version="3" timestamp="2021-01-17T08:37:16Z" changeset="97628920" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bonpas"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553370415" lat="43.9108326" lon="4.8835422" version="3" timestamp="2021-01-17T08:37:16Z" changeset="97628920" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lycée Agricole"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553370416" lat="43.9104106" lon="4.8835851" version="3" timestamp="2021-01-17T08:37:16Z" changeset="97628920" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lycée Agricole"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553700997" lat="43.9650191" lon="4.8176135" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Les Deux Rhône"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553701006" lat="43.9720102" lon="4.8197727" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="EDF"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553701008" lat="43.9745929" lon="4.8219594" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mont Blanc"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553701010" lat="43.9744708" lon="4.8222913" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mont Blanc"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553701012" lat="43.9686880" lon="4.8309320" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Barthelasse École"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553701014" lat="43.9686841" lon="4.8301542" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Barthelasse École"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553701044" lat="43.9583785" lon="4.8147871" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Dardenne"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7553701048" lat="43.9569290" lon="4.8024919" version="3" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Islon"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7554170759" lat="43.9515234" lon="4.8210964" version="3" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Granier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7554195791" lat="43.9554963" lon="4.8283222" version="3" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Courbet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7554195796" lat="43.9555673" lon="4.8302454" version="3" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Troënes"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7554195803" lat="43.9562933" lon="4.8329356" version="3" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Jardins Neufs"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7554195810" lat="43.9570888" lon="4.8363863" version="3" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Chemin Croix Verte"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572383637" lat="43.9247673" lon="4.8252048" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Provençales"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572383643" lat="43.9252595" lon="4.8281459" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Garance"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572383650" lat="43.9265543" lon="4.8276865" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Booth"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572383657" lat="43.9255772" lon="4.8283651" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Garance"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572410798" lat="43.9290351" lon="4.8207678" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Trillade"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572410799" lat="43.9288507" lon="4.8207671" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Trillade"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572410814" lat="43.9310412" lon="4.8199832" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Curtis"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572410832" lat="43.9332650" lon="4.8166345" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Piscine Folard"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572410842" lat="43.9326290" lon="4.8167860" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Piscine Folard"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572410843" lat="43.9367756" lon="4.8183861" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bonneaud"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572410844" lat="43.9366040" lon="4.8184502" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bonneaud"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572410862" lat="43.9379038" lon="4.8179921" version="2" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="1ère DB"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572477061" lat="43.9289183" lon="4.8135178" version="3" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Olivades"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572477065" lat="43.9296011" lon="4.8201469" version="3" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Trillade"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572477072" lat="43.9288251" lon="4.8135473" version="3" timestamp="2023-01-14T20:49:16Z" changeset="131279059" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Olivades"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566685" lat="43.9283962" lon="4.8127735" version="2" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cabrière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566701" lat="43.9264355" lon="4.8120030" version="2" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="D'Arbaud"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566702" lat="43.9264649" lon="4.8116664" version="2" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="D'Arbaud"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566705" lat="43.9251918" lon="4.8093413" version="2" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Campus Sciences et Techniques"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566706" lat="43.9254507" lon="4.8094435" version="2" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Campus Sciences et Techniques"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566711" lat="43.9235034" lon="4.8093054" version="2" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Stade Gillardeaux"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566712" lat="43.9231728" lon="4.8093956" version="2" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Stade Gillardeaux"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566720" lat="43.9206141" lon="4.8087206" version="2" timestamp="2021-01-17T11:23:52Z" changeset="97633722" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Follereau"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7572566727" lat="43.9249117" lon="4.8041086" version="2" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Schumann"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489208" lat="43.9432155" lon="4.8032620" version="3" timestamp="2022-10-03T16:02:13Z" changeset="126946059" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="image" v="https://i.imgur.com/iStQQUK.jpg"/>
+    <tag k="local_ref" v="7"/>
+    <tag k="name" v="Avignon Poste"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489210" lat="43.9445656" lon="4.8019702" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Observance"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489212" lat="43.9446825" lon="4.7992256" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Raspail"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489214" lat="43.9467624" lon="4.7997460" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Mistral"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489221" lat="43.9475758" lon="4.8032791" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Vernet"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489223" lat="43.9491116" lon="4.8035956" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Agricol"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489232" lat="43.9503640" lon="4.8049428" version="3" timestamp="2021-12-13T19:54:27Z" changeset="114896033" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Racine"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489234" lat="43.9490150" lon="4.8054802" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Hôtel de Ville"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489241" lat="43.9482981" lon="4.8058845" version="3" timestamp="2022-08-24T09:04:21Z" changeset="125304976" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Horloge"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489242" lat="43.9464806" lon="4.8057110" version="3" timestamp="2022-08-24T09:04:21Z" changeset="125304976" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Didier"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573489284" lat="43.9514032" lon="4.8161792" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Carreterie"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573509585" lat="43.9505492" lon="4.8141823" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Carmes"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7573509592" lat="43.9470757" lon="4.8144834" version="2" timestamp="2021-01-17T13:17:33Z" changeset="97637369" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Guillaume Puy"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7574796253" lat="43.9437222" lon="4.8059499" version="3" timestamp="2021-01-17T13:43:20Z" changeset="97638273" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Agence Commerciale"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7600373880" lat="43.9132366" lon="4.8869198" version="3" timestamp="2022-02-23T17:44:02Z" changeset="117781076" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Demonque"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7600373885" lat="43.9162202" lon="4.8874140" version="3" timestamp="2023-01-27T09:50:33Z" changeset="131764897" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Agroparc Centre"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7600373889" lat="43.9172747" lon="4.8822665" version="3" timestamp="2022-02-23T17:44:02Z" changeset="117781076" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Durançole"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7600373892" lat="43.9211319" lon="4.8686405" version="2" timestamp="2021-01-14T16:59:34Z" changeset="97507413" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Castelette"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7600373912" lat="43.9189580" lon="4.8721537" version="3" timestamp="2022-04-20T09:24:29Z" changeset="119943654" uid="188930" user="JLZIMMERMANN">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Valente"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7619875756" lat="43.9254855" lon="4.8514603" version="2" timestamp="2021-01-23T10:03:57Z" changeset="98012770" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bon Vent"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7619875757" lat="43.9254657" lon="4.8514590" version="2" timestamp="2021-01-23T10:03:57Z" changeset="98012770" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Bon Vent"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7749859094" lat="43.9053044" lon="4.8978046" version="3" timestamp="2021-02-28T10:01:43Z" changeset="100129239" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Avignon - Aéroport"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="7974925527" lat="43.9420032" lon="4.8083820" version="2" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="17"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="route_ref" v="15"/>
+  </node>
+  <node id="8319951334" lat="43.9332457" lon="4.7986503" version="1" timestamp="2021-01-13T23:09:02Z" changeset="97467726" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Quiot"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322528606" lat="43.9099933" lon="4.8910657" version="2" timestamp="2021-01-17T08:37:16Z" changeset="97628920" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Agroparc"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689974" lat="43.9421944" lon="4.8084095" version="2" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="9"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689975" lat="43.9421934" lon="4.8079750" version="2" timestamp="2021-01-22T17:18:17Z" changeset="97988617" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="5"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689976" lat="43.9420032" lon="4.8084511" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="11"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="route_ref" v="15"/>
+  </node>
+  <node id="8322689977" lat="43.9420032" lon="4.8085141" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="16"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689978" lat="43.9420032" lon="4.8082982" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="12"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689979" lat="43.9420033" lon="4.8081882" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="18"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689980" lat="43.9420033" lon="4.8080984" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="13"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689981" lat="43.9420033" lon="4.8079830" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="19"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689982" lat="43.9420033" lon="4.8078757" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="14"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689983" lat="43.9420033" lon="4.8077617" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="20"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322689984" lat="43.9420033" lon="4.8076665" version="1" timestamp="2021-01-14T23:47:23Z" changeset="97519932" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="local_ref" v="15"/>
+    <tag k="name" v="Avignon - Gare Routière"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8322702854" lat="43.9349986" lon="4.8303466" version="1" timestamp="2021-01-15T00:11:04Z" changeset="97520394" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cité SNCF"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8323712635" lat="43.9507718" lon="4.8438415" version="2" timestamp="2021-03-16T16:13:43Z" changeset="101132330" uid="8194821" user="Smx1">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Toulourenc"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8324655810" lat="43.9460430" lon="4.8526291" version="1" timestamp="2021-01-15T13:50:37Z" changeset="97564669" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lycée René Char"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8327217641" lat="43.9452652" lon="4.8636945" version="1" timestamp="2021-01-16T11:30:26Z" changeset="97600425" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="St Maurice"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8329609569" lat="43.9710638" lon="4.8260222" version="1" timestamp="2021-01-17T08:45:37Z" changeset="97629071" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Cave"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8329709560" lat="43.9529301" lon="4.8205928" version="1" timestamp="2021-01-17T08:58:10Z" changeset="97629341" uid="591881" user="Patchi">
+    <tag k="bench" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="P+R Italiens"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8330022591" lat="43.9313500" lon="4.8174388" version="1" timestamp="2021-01-17T10:48:11Z" changeset="97632463" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Collège Mathieu"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8330064415" lat="43.9186123" lon="4.8787688" version="3" timestamp="2022-02-23T17:44:02Z" changeset="117781076" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Magnanarelles"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8360964033" lat="43.9512125" lon="4.8290095" version="1" timestamp="2021-01-25T13:52:46Z" changeset="98126915" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Papes"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8360964034" lat="43.9511642" lon="4.8292027" version="1" timestamp="2021-01-25T13:52:46Z" changeset="98126915" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Papes"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8465390043" lat="43.8921538" lon="4.9158343" version="2" timestamp="2021-03-13T15:20:19Z" changeset="100957574" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Péage Avignon Sud"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8964321079" lat="43.9237342" lon="4.7867943" version="1" timestamp="2021-07-30T21:52:08Z" changeset="108911718" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Confluence"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8964321081" lat="43.9240960" lon="4.7875339" version="1" timestamp="2021-07-30T21:52:08Z" changeset="108911718" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Confluence"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8964328018" lat="43.9297006" lon="4.7872382" version="1" timestamp="2021-07-30T21:52:08Z" changeset="108911718" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ramatuel"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8968642253" lat="43.9398586" lon="4.8015773" version="1" timestamp="2021-07-31T14:53:08Z" changeset="108946635" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Blanchissage"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8968642259" lat="43.9398716" lon="4.8014975" version="1" timestamp="2021-07-31T14:53:08Z" changeset="108946635" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Blanchissage"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9294676124" lat="43.9352848" lon="4.8172444" version="2" timestamp="2022-09-21T16:00:03Z" changeset="126471934" uid="10916480" user="Vertounoir">
+    <tag k="bus" v="yes"/>
+    <tag k="fixme" v="Position approximative"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Loti"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9551118558" lat="43.9280074" lon="4.8044747" version="1" timestamp="2022-03-03T06:41:06Z" changeset="118043281" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lavarin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9551118586" lat="43.9280190" lon="4.8045364" version="1" timestamp="2022-03-03T06:41:06Z" changeset="118043281" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lavarin"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9875999215" lat="43.9483647" lon="4.8097043" version="6" timestamp="2023-02-12T16:19:27Z" changeset="132452999" uid="106698" user="wuschelhase">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="fixme" v="Position approximative"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Place Pie"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="10666331577" lat="43.9479693" lon="4.8101841" version="1" timestamp="2023-02-16T06:10:36Z" changeset="132611736" uid="591881" user="Patchi">
+    <tag k="bus" v="yes"/>
+    <tag k="fixme" v="Position approximative"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Place Pie"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+
+</osm>
